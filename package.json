@@ -1,0 +1,15 @@
+{
+  "name": "proton",
+  "version": "0.0.0",
+  "description": "c++ ide for competitive programming",
+  "main": "main.js",
+  "scripts": {
+    "start":"npx electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sushobhana patra",
+  "license": "ISC",
+  "dev-dependencies": {
+    "electron": "^1.7.10"
+  }
+}
